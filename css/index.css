@@ -5,8 +5,13 @@
 
 .movie-page {
     margin-top: 5vh;
+
 }
 
 body {
     text-align: center;
+}
+
+.checked {
+    color: orange;
 }
